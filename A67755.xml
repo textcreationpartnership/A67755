@@ -1,0 +1,564 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The improvement improved by a second edition, or, The great improvement of lands by clover, or, The wonderful advantage by, and right management of clover by Andrew Yarranton ...</title>
+            <author>Yarranton, Andrew, 1616-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67755</idno>
+            <idno type="STC">Wing Y16</idno>
+            <idno type="STC">ESTC R9553</idno>
+            <idno type="EEBO-CITATION">12643150</idno>
+            <idno type="OCLC">ocm 12643150</idno>
+            <idno type="VID">65048</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67755)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65048)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 338:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The improvement improved by a second edition, or, The great improvement of lands by clover, or, The wonderful advantage by, and right management of clover by Andrew Yarranton ...</title>
+                  <author>Yarranton, Andrew, 1616-1684.</author>
+               </titleStmt>
+               <extent>[16], 46 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.C. for Francis Rea ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clover --  Harvesting --  Early works to 1800.</term>
+               <term>Clover as feed --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65048:1" rendition="simple:additions"/>
+            <p>The Improvement improved, BY A SECOND EDITION OF The great Improvement of Lands BY CLOVER: OR, The Wonderful Advantage by, and right management of CLOVER.</p>
+            <p>BY <hi>ANDREW YARRANTON</hi> of <hi>Aſhley,</hi> in the County of <hi>Worceſter.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. C.</hi> for <hi>Francis Rea,</hi> Bookſeller in <hi>Worceſter.</hi> 1663.</p>
+         </div>
+         <div type="author_to_the_reader">
+            <pb facs="tcp:65048:2"/>
+            <pb facs="tcp:65048:2"/>
+            <head>To the Induſtrious HUSBAND-MAN, FREE-HOLDER or FARMER.</head>
+            <opener>
+               <salute>Honeſt Countryman,</salute>
+            </opener>
+            <p>ONe ſight of this enſuing Pla<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> diſcourſe of <hi>Clo<g ref="char:EOLhyphen"/>ver,</hi> will convince thee I intend not to interrupt thy honeſt Labours with a few empty words to no purpoſe. Had I the art to garniſh my diſcourſe with Rhe<g ref="char:EOLhyphen"/>torical flouriſhes of wit, I ſhould hold it as unſutable to the temper of my ho<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt plain Cou<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>y<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, as it is to my preſent deſign, which is to give you my beſt di<g ref="char:EOLhyphen"/>rections how you may make the beſt of your Lands. To perſwade men by arguments to improve their Estates, is to ſuppoſe
+<pb facs="tcp:65048:3"/>them fools or mad-men: thoſe that are in their wits, (that is, are wiſe) need not arguments; thoſe that are otherwiſe, muſt be otherwiſe dealt with. I ſuppoſe you are all ſo far convinced that the right manage<g ref="char:EOLhyphen"/>ment of your Husbandry is your concern<g ref="char:EOLhyphen"/>ment, that my directions will be accepta<g ref="char:EOLhyphen"/>ble, if I ſhew you how it may be done. And though in this little book I confine myſelf to one ſort of Husbandry (which is as uſeful and profitable as any other) yet here it will not be unſeaſonable if I caution you to beware of theſe four great obſtructions to good Husbandry in the ge<g ref="char:EOLhyphen"/>neral, eſpecially ſince they are injurious to this Husbandry amongst the reſt.</p>
+            <p n="1">
+               <hi>1.</hi> The firſt is Ignorance, either of the nature of our Land, or what improvement it is capable of; the fitteſt Seed for it, and ſeaſon of Plowing, Sowing, laying down, and breaking up Land; drawing Meadows and wateriſh Ground, destroy<g ref="char:EOLhyphen"/>ing Weeds and Vermine, raiſing Manure, planting Woods, with many other ſuch
+<pb facs="tcp:65048:3"/>parts of Husbandry; wherein it's true e<g ref="char:EOLhyphen"/>very Husband hath ſome knowledge, but many have little more then their Fa<g ref="char:EOLhyphen"/>thers left them: and how wilfully ignorant are many men of that advantagious art of improving land by floating it with water! though this improvement is ſo great, and many mens lands lie most viſibly conve<g ref="char:EOLhyphen"/>nient for it, yet the owners of them (though many of them are men ingenious in other matters) do not diſcern it.</p>
+            <p>I write not this to upbraid any: for I believe we have as good husbandry in <hi>England,</hi> as is in most parts; and our knowled<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e therein is much improved of late: but I know there would be much more advantage to our ſelves, and to the Publick, by our eſtates and good hus<g ref="char:EOLhyphen"/>bandry, if we did better obſerve thoſe ad<g ref="char:EOLhyphen"/>vantages that lie before us, and better in<g ref="char:EOLhyphen"/>form our ſelves how to make the beſt uſe of them. I wonder that any man that knoweth what true Husbandry meaneth, ſhould think that Son to be ſit for Hus<g ref="char:EOLhyphen"/>bandry,
+<pb facs="tcp:65048:4"/>whom he taketh to be ſcarcè capa<g ref="char:EOLhyphen"/>ble of any other imployment: Husbandry is not ſo eaſie a matter as ſome men ima<g ref="char:EOLhyphen"/>gine. The unjuſt cenſures that mens ignorance hath brought upon the improve<g ref="char:EOLhyphen"/>ment of Lands by <hi>Clover,</hi> I will not men<g ref="char:EOLhyphen"/>tion, becauſe I finde of late men have bet<g ref="char:EOLhyphen"/>ter <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it the way of managing it to its credit.</p>
+            <p n="2">
+               <hi>2.</hi> The ſecond obſtruction to good Hus<g ref="char:EOLhyphen"/>bandry and improvement of Lands, is a too ſtiff adhering to old Customs. I have many times wondred at the wilfulneſs of the Iriſh and Welch-men, who have many old Cuſtoms in their plowing, ſowing, drawing with Withes, <hi>&amp;c.</hi> It can ſcarce be believed that men ſhould be guilty of ſuch folly as you may ſee amongſt them: Neither can you imagine how difficult it is to bring them off theſe old dotages: and though our Engliſh husbandmen are wiſer, better husbands, and have caſt off may of thoſe old Cuſtoms; yet we are in many things as culpable as they, in re<g ref="char:EOLhyphen"/>taining
+<pb facs="tcp:65048:4"/>thoſe Uſages and methods in Hus<g ref="char:EOLhyphen"/>bandry which never any man pretended any good reaſon for, but were introduced when men were moſt ignorant, as a meer ſhift for that time onely; and were handed from one to another, till they had got the venerable name of Antiquity; eſpecially with thoſe men who (as King <hi>Henry</hi> the eighth ſaith) will not leave an old <hi>Mumpſimus</hi> for a new <hi>Sumpſimus. Our Fathers worſhiped in this mountain,</hi> and <hi>our Husbandry was thus managed before we were born,</hi> are arguments againſt which there is no diſputing.</p>
+            <p>I am not willing to uncover our Fathers nakedneſs, elſe I could give you too many inſtances, wherein we have little reaſon to imitate them. How careful were they (in the caſe before mentioned) with all poſſible ſpeed, by private gutters and ditches, and other means, to convey away all rivulets, landſlouds, or other helps for floating their Lands, as though they
+<pb facs="tcp:65048:5"/>could not be too ſoon rid of them; when<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s they might have made an unſpeakable advantage by them, in floating their lands! and how hard is it, and hath it been, to diſſwade men from following their exam<g ref="char:EOLhyphen"/>ple, or to ſtep one foot out of the com<g ref="char:EOLhyphen"/>mon road! Why ſhould we trouble our ſelves (ſay they) to Float, or <hi>Clover</hi> our Land? our Fathers lived well without theſe new inventions, and ſo may we. Thus ſome men keep the old road, till the whole Country is convinced there is a neerer and better way; and then it's ten to one they as much abhor the old as they did the new. But my ad<g ref="char:EOLhyphen"/>vice to thee (Country-man) is, in thy Husbandry, quarrel with nothing meer<g ref="char:EOLhyphen"/>ly becauſe it is new; eſteem nothing meerly becauſe it is old: let thy Reaſon judge; and when there is like reaſon for both, preſer the old; but let not an old Cuſtome prevail against the Truth and Reaſon.</p>
+            <p n="3">
+               <hi>3.</hi> The third Obſtruction to good
+<pb facs="tcp:65048:5"/>Husbandry and improvement of Land, is a timerous unſeaſonable withholding our ſtock, when it may be laid out to great advantage: this we call <hi>pen<g ref="char:EOLhyphen"/>ny-wiſe, and pound-fooliſh,</hi> or <hi>looſing a good Sheep for a half-penny worth of Tar.</hi> And this is ei<g ref="char:EOLhyphen"/>ther in our common Husbandry, when we will not be at a little coſt, though we are almoſt ſure of a great advantage; and to ſave a little money, looſe much more. It is but a lazie contentment, to be con<g ref="char:EOLhyphen"/>tent with what the Land will yeild us, without our coſt and pains. <hi>2.</hi> Some men are affraid of adventures (as they call it) though the caſe is never ſo plain, until o<g ref="char:EOLhyphen"/>thers have broke the Ice for them; and ſo either looſe that opportunity they might have improved, or are diſcouraged by ſome petty miſcarriages or inconveni<g ref="char:EOLhyphen"/>ences which ſeem only to attend their un<g ref="char:EOLhyphen"/>dertaking.</p>
+            <p>He that is affraid of venturing <hi>12</hi>
+               <abbr>lb</abbr> of <hi>Clover</hi>-ſeed upon an Acre of Ground,
+<pb facs="tcp:65048:6"/>(that is fit for it) the price of ſeed being ſo low, and the advantage ſo great and cer<g ref="char:EOLhyphen"/>tain, let him lay down his Land without it, and at the three years end compare his own with his Neighbours profit who made that adventure.</p>
+            <p n="4">
+               <hi>4.</hi> The fourth Obstruction to good Husbandry and improvement of Land, is mens undertaking more then they can well manage: how often do men that could not live upon a great Farm, thrive upon a leſs! the reaſon of this may be, either through the incapacity of the Husband<g ref="char:EOLhyphen"/>man, or want of ſtock. As he ſhall never improve his Lands to the beſt, nor be ex<g ref="char:EOLhyphen"/>emplary in good Husbandry, that wants a ſtock to bear him out in his underta<g ref="char:EOLhyphen"/>kings; ſo he that hath a great Farm, and a ſtock ſutable to it, but wants skill and diſcretion to manage it, I adviſe him to make the first improvement upon his Understanding: but if that cannot be, let him get an honeſt and skilful Hus<g ref="char:EOLhyphen"/>bandman to do that which himſelf can<g ref="char:EOLhyphen"/>not
+<pb facs="tcp:65048:6"/>do; or let him ſet his great Farm, and take a leſs; and he may be ſure of this, at leaſt, his money will hold out the longer.</p>
+            <p>I could give you many instances, and ſhew you more particularly in each of theſe four Obſervations, how they hinder all improvements in the ge<g ref="char:EOLhyphen"/>neral, eſpecially the improvements of <hi>Clover;</hi> but it would be too large for my Epistle.</p>
+            <p>Countryman, thou hast here the beſt directions (I think) the Country can afford thee; though it may be thou mayeſt meet with ſome judicious perſon that can better instruct thee: if thou doeſt, take his advice, and much good may it do thee. But leſt the extraor<g ref="char:EOLhyphen"/>dinary profit of <hi>Clover</hi> ſhould make thee too ſerious in the purſuit of it, I preſent thee for thy recreation with a ſew Verſes an honeſt Countryman of ours gave me, who it's like had tasted ſomewhat of the profit of it.</p>
+            <pb facs="tcp:65048:7"/>
+            <p>I have here endeavoured (by diſcove<g ref="char:EOLhyphen"/>ring) to remove thoſe four Obſtructions to good Husbandry and improvements: the last mentioned is, want of money; which, if thou obſerve the directions of this book, will (by Gods bleſſing upon thy la<g ref="char:EOLhyphen"/>bours) be ſpeedily removed.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>January 2. 1662.</hi>
+                  </date>
+               </dateline>
+               <signed>Andrew Yarranton.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:65048:7"/>
+            <head>Folium in Trifolium ENCOMIASTICON.</head>
+            <lg>
+               <l>WHen Poets call for aid, do they invoke</l>
+               <l>The oyl of Barley, Hopps, or Indian ſmoke?</l>
+               <l>Muſt <hi>Bacchus</hi> fill their veins? theſe drown &amp; ſmo<g ref="char:EOLhyphen"/>ther,</l>
+               <l>And dull their wits: give me the oyl of <hi>clover:</hi>
+               </l>
+               <l>One drop of which contains ſuch vertue in it,</l>
+               <l>It makes a perfect Poet in a minute.</l>
+               <l>I crave no aid; give me the Gooſes quill</l>
+               <l>That's fed with <hi>Clover,</hi> and I'll try my skill.</l>
+            </lg>
+            <lg>
+               <l>With what delight and pleaſure have I ſeen</l>
+               <l>The barren paſtures cloathed all in green!</l>
+               <l>Where neither Graſs nor Corn would grow before,</l>
+               <l>It hath of Honey ſuckles planted ſtore.</l>
+               <l>A barren Farm (with ſpeed) you'll fruitful call,</l>
+               <l>If thus you quilt one quarter of the ball.</l>
+               <l>The green Leaf is an object for your eyes;</l>
+               <l>The Flower for your taſte, where honey lies:</l>
+               <l>The ſavour on't exceeds the ſweeteſt Roſes;</l>
+               <l>It brings theſe fragrant paſtures to our Noſes.</l>
+               <l>The ſound of Gain, to pleaſe our hearing tendeth;</l>
+               <l>But feeling beſt its object apprehendeth.</l>
+               <l>It fills each Senſe with Joy, our Purſe with Mony;</l>
+               <l>Our Land (like <hi>Canaan</hi>) flows with mike and hony:</l>
+               <l>It brings us ſtore of Butter and of Cheeſe,</l>
+               <l>It feeds our Sheep, our Turkeys and our Geeſe;</l>
+               <l>It feeds our Horſes, Oxen, and our Kine,</l>
+               <l>(And that with ſpeed) our Pigs do feed like Swine.</l>
+               <l>Fat Beef and Bacon now ſhall be our fare;</l>
+               <l>And with <hi>Weſtphalia</hi>-gammons we'll compare.</l>
+               <l>The Milk-maid hath her wiſh, her Pails it fills</l>
+               <l>Juſt at the Dayry door, ſuch ſtore it yeilds.</l>
+               <pb facs="tcp:65048:8"/>
+               <l>Our Tenant-ſqueezing-landlords thirſt's appeas'd,</l>
+               <l>Our g<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mbling Tenant's racking Rent is oas'd;</l>
+               <l>The Land, that once we thought not worth our ſow<g ref="char:EOLhyphen"/>ing,</l>
+               <l>For three years time ſtands to't with ſix times mow<g ref="char:EOLhyphen"/>ing.</l>
+               <l>From wet and weeping land it wipes the tears,</l>
+               <l>It makes the Wheat and Rie fall to't by th'ears.</l>
+               <l>But Wheat-land muſt not now contend with Rie<g ref="char:EOLhyphen"/>land;</l>
+               <l>Our water'd Meadows date not vie with dry-land;</l>
+               <l>Nor can our richeſt Vales (whoſe deeper ſoyle</l>
+               <l>Yeil<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s <hi>Ceres</hi> her full ſacrifice with toyle)</l>
+               <l>Vie henceforth with the Rie land in their wealth,</l>
+               <l>More then they juſtly could before for health</l>
+               <l>For though we yeeld that Wheat's the better grain,</l>
+               <l>That's better Land, that yields the greater gain:</l>
+               <l>And ſure I am, here is a reaſon why</l>
+               <l>Our Meadows are below the land that's dry.</l>
+               <l>Of Weeders Weed-hooks now we have no need;</l>
+               <l>It ſaves our three years plowing, and our ſeed.</l>
+               <l>Our Land, when <hi>Clover</hi> leaves it, yeilds ſuch ſtore,</l>
+               <l>As though it had not yeild us ought before;</l>
+               <l>The root whereof doth ſo manure our Land,</l>
+               <l>It fills our Binders arms, our Reapers hand:</l>
+               <l>Such vertue theſe three leaves do leave behinde them,</l>
+               <l>That yeeld ſuch mighty Sheaves we cannot binde them.</l>
+               <l>The charge of Hop-yards doth quite blaſt the gain,</l>
+               <l>From other blaſts if any thing remain;</l>
+               <l>And commonly to him, whoſe hopes defend</l>
+               <l>On Hopps, they prove but bitter in the end,</l>
+               <l>But Three-leav'd-graſs ſoon yeelds a threefold profit:</l>
+               <l>Three Volumes may be writ in pr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſe of it.</l>
+               <l>B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t to conclude; thy purſe will ne'er run over</l>
+               <l>Till thou haſt got the art of ſowing <hi>Clover,</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:65048:8"/>
+            <head>THE Contents of the BOOK.</head>
+            <list>
+               <item>
+                  <hi>1.</hi> THe reaſon why ſome that have uſed <hi>Clover,</hi> have not found profit by it.</item>
+               <item>
+                  <hi>2. Clover</hi> doth not impove<g ref="char:EOLhyphen"/>riſh, but improve the Land.</item>
+               <item>
+                  <hi>3.</hi> What are the fitteſt Lands to ſow <hi>Clover</hi> upon.</item>
+               <item>
+                  <hi>4.</hi> The profit that is to be raiſed by this Husbandry.</item>
+               <item>
+                  <hi>5.</hi> When, how much, and how to ſow <hi>Clover</hi>-ſeed.</item>
+               <pb facs="tcp:65048:9"/>
+               <item>
+                  <hi>6.</hi> Directions for mowing, making, and uſing the Hay.</item>
+               <item>
+                  <hi>7.</hi> What Cattle are fitteſt to graſe it with.</item>
+               <item>
+                  <hi>8.</hi> The Authors readineſs to give any man further ſatisfacti<g ref="char:EOLhyphen"/>on, and to prove the truth of what he affirmeth by viſible Ex<g ref="char:EOLhyphen"/>periments.</item>
+               <item>
+                  <hi>9.</hi> Where the Seed that is good and new may be had.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="1" facs="tcp:65048:9"/>
+            <head>The great Improvement of Land by Clover.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N my former Diſcourſe of <hi>Clover,</hi> I gave you a ſhort accompt of the per<g ref="char:EOLhyphen"/>ſons that have writ on this ſubject, and when this husbandry was firſt ſet on foot in <hi>England;</hi> the repetition of which, for brevity ſake I ſhall omit, and onely give you an accompt of ſome of their obſervations and e<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>periments, as I finde them pertinent to the method I intend in this little book. And this I do, becauſe I finde ſome will not take the pains, others cannot ſpare the time, which the reading of thoſe books doth require: but whoſo<g ref="char:EOLhyphen"/>ever pleaſeth to read thoſe former writings about <hi>Clover,</hi> and compare their experi<g ref="char:EOLhyphen"/>ence with ours of late, will ſee much of the
+<pb n="2" facs="tcp:65048:10"/>reaſon, why that husbandry ſeemed to be wholly diſuſed for a time. For though thoſe Gentlemen writ very well, conſide<g ref="char:EOLhyphen"/>ring it was in the infancy of Clover in <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> yet they came far ſhort of that know<g ref="char:EOLhyphen"/>ledge, which men (leſs ingenious) have of late attained to by practice and experi<g ref="char:EOLhyphen"/>ence; ſo that the firſt directions from thoſe men were not what now may be given.</p>
+            <p>Thoſe improvements of Land, which are now much uſed, and applauded amongſt us, were once as much decryed (as ever Clover hath been) before we well under<g ref="char:EOLhyphen"/>ſtood them. And what improvement (e<g ref="char:EOLhyphen"/>ven to admiration) have ſome men made of their Eſtates, by ſuch ways and means as ſeemed improbable to ſuch men, who in a ſhort time have followed their examples, when they have ſeen th<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ſucceſſes; where<g ref="char:EOLhyphen"/>as, if by any accident<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> miſcarriage in the management of it they have ſeen the firſt authours in any meaſure fallen ſhort of that profit propounded to themſelves, they would preſently have cried out againſt the whole, and abhorred the thoughts of any further tryal, in ſtead of inquiring wherein the miſcarriage lay, and endeavouring to prevent it in the next eſſay: ſuch is the
+<pb n="3" facs="tcp:65048:10"/>unreaſonable impatience of ſome men, not conſidering that knowledge in all arts, eſpe<g ref="char:EOLhyphen"/>cially in Husbandry, is attained by in<g ref="char:EOLhyphen"/>duſtry, obſervation, often practice, and patience. Though we now know much more of the nature of <hi>Clover,</hi> then we did a few years ſince, and the whole Country is very much convinced of the extraordinary profit, and uſefulneſs of it; yet a few years practice more, will give us much more light into it.</p>
+            <p>I remember about two years ago, it was objected by ſome (of which I hear nothing now in theſe parts) that ſome, that did ſow this Seed, have left off the ſowing of it, not finding that profit in it, which is talked of. It is true; and it is as true, that many men after they have ſome time uſed and im<g ref="char:EOLhyphen"/>ployed themſelves in trades that are very advantagious, and by which others have got great Eſtates, yet finding no profit to be got by them (as they conceive) have diſuſed the ſaid Trades, and betaken them<g ref="char:EOLhyphen"/>ſelves to other imployments; when indeed the fault was not in the Trade, but in the perſon or management of it.</p>
+            <p>About 13 years ſince, Sir <hi>Richard Weſton</hi> by obſervation, and diſcouſe with Mer<g ref="char:EOLhyphen"/>chants
+<pb n="4" facs="tcp:65048:11"/>and others in his travels in <hi>Flanders</hi> and <hi>Brabant,</hi> and other parts, found that there was very great profit raiſed out of poor and barren Lands, by ſowing it with Clover: whereupon he ſet on foot that Husbandry herein his own Country, and in a little time it ſo ſpread it ſelf, that there was ſome of it (more or leſs) ſowed in moſt Counties in <hi>England:</hi> and as it began, ſo it continued in ſome repute for a time, but ſhortly after ſome began to be diſcou<g ref="char:EOLhyphen"/>raged, and at laſt it was in a great meaſure laid aſid: &amp; indeed it was almoſt impoſſible it ſhould be otherwiſe, for it was then un<g ref="char:EOLhyphen"/>der theſe (amongſt other) diſadvantages.</p>
+            <p n="1">1. Firſt, it was then a new, and for<g ref="char:EOLhyphen"/>raign ſort of Husbandry, and therefore ſuſpected; and ſuſpition ever aggravates e<g ref="char:EOLhyphen"/>very little inconvenience to the damage, and taketh no notice of what is for the cre<g ref="char:EOLhyphen"/>dit of that which is ſuſpected.</p>
+            <p n="2">2. The Seed was dea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, worth two ſhil<g ref="char:EOLhyphen"/>lings the pound, ſo that then it was chargeable trying experiments to finde out the nature of it: and if any man failed, he was exaſperated by his loſs to ſpeak the worſt of it.</p>
+            <p n="3">3. In all trials there muſt be many
+<pb n="5" facs="tcp:65048:11"/>miſcarriages, all men (almoſt) here in <hi>England</hi> being ignorant how to manage it: and hence it is: Firſt, inſtead of 12 <hi>li.</hi> they ſow but 5 or 6 <hi>li.</hi> upon an Acre, ſo that it was a wonder if any came up, that the natural Graſs and Weeds did not choak it all.</p>
+            <p>Secondly, ſome ſowed upon extream wet, and gawled Land, which retaineth the wet; and others upon extream binding clay Land, which will not bear it, and wherein it could never get any good root<g ref="char:EOLhyphen"/>ing.</p>
+            <p>Thirdly, ſome buried it all in the ſowing and harrowing; and ſome, leſt they ſhould bury it, did not ſufficiently cover it; and of this the Birds had more then their ſhare.</p>
+            <p>Fourthly, ſome ſowed it upon ſuch Land as had not ſtrength enough to bear any thing; for men had a conceit, that it would grow upon any Land, though never ſo poor; and in this alſo many times it muſt fail them: for though it would bring ad<g ref="char:EOLhyphen"/>vantage upon ſuch Land, as would ſcarce yeeld our rent in graſs, or pay our charge and rent in tillage; yet we muſt not expect that profit upon poor Land, which may be
+<pb n="6" facs="tcp:65048:12"/>raiſed upon better, until it's brought into a better capacity by good Husbandry: and there is ſome Land, which will bear no<g ref="char:EOLhyphen"/>thing in the condition it is in.</p>
+            <p>Fifthly, ſome deſtroyed it immediately after it came up out of the ground, while it was tender, by the grazing and treading of Cattle. I might mention many more, as mixing the Seed with Sand, ſowing upon Land wherein the natural Graſs was not ſufficienty deſtroyed by tillage, or upon Land that was not well prepared before, I mean, not mellow and made fine, for it de<g ref="char:EOLhyphen"/>lights much in a ſoft bed.</p>
+            <p>Sixthly, and ſome, through ignorance of the danger, put their Oxen and Kine haſti<g ref="char:EOLhyphen"/>ly into it, whereby they have ſuſtained loſs. Many ſuch diſparagements through our ignorance and unskilfulneſs hath it met with to it's detriment.</p>
+            <p>Seventhly, eſpecially, the Seed was very bad; where one pound was good (I think I may ſay) three was either old, mixt, cor<g ref="char:EOLhyphen"/>rupted at Sea, or afterwards at Land by bad keeping it; and many men, to ſave ſomething in the price, bought ſuch Seed as was worth nothing. I am apt to think, that one of the greateſt diſcredits this Hus<g ref="char:EOLhyphen"/>bandry
+<pb n="7" facs="tcp:65048:12"/>hath met with, hath been from the Seed: it were too long to tell you, what en<g ref="char:EOLhyphen"/>vious baſe arts were uſed in <hi>Flanders</hi> and other parts (as Kiln-drying, <hi>&amp;c.</hi>) to pre<g ref="char:EOLhyphen"/>vent our having good Seed, leſt we ſhould get the perfect art of <hi>Clover,</hi> as well as they: ſo that much of the Seed being bad, never came up; and being dear, the loſs was great, and the diſappointment no leſs, and in this caſe, the Country had no remedy, not knowing good Seed from bad, but muſt take ſuch they could get, or none; which made many (after a few trials) diſuſe it, rather then run the hazard of ſuch chargeable adventures. Now to pre<g ref="char:EOLhyphen"/>vent theſe or any other obſtructions for the future, the following directions are in<g ref="char:EOLhyphen"/>tended; and Seed, that is certainly good and new, will be ſold at the places hereaf<g ref="char:EOLhyphen"/>ter mentioned.</p>
+            <p>But in regard it hath been objected, that <hi>Clover</hi> doth improveriſh the Land (though experience hath fully anſwered this ob<g ref="char:EOLhyphen"/>jection with us) I crave your patience, while I give anſwer to it; for the ſake of ſuch, who have not had <hi>Clover</hi> amongſt them long enough, to make a ſufficient tri<g ref="char:EOLhyphen"/>al of it, ſo as to know the truth whether it do or not.</p>
+         </div>
+         <div type="part">
+            <pb n="8" facs="tcp:65048:13"/>
+            <head>
+               <hi>Clover</hi> doth not improveriſh, but improve the Land it groweth on.</head>
+            <p>IT is objected, Clover <hi>doth improveriſh the Land.</hi>
+            </p>
+            <p n="1">1. And firſt, ſuppoſe it do, it is beyond all doubt it doth, while it groweth, yeeld ſuch advantage, as doth much more then recompence the damage.</p>
+            <p n="2">2. Corn doth improveriſh the Land, yet this ſhall not diſcourage me from ſow<g ref="char:EOLhyphen"/>ing it.</p>
+            <p n="3">3. If <hi>Clover</hi> do abate ſomewhat of the heart of the Land, yet it utterly deſtroyeth all Weeds, Fern and Broom, which I think is no ſmall diſadvantage, and brings the ground into a freſh capacity of tillage; which cannot be done by laying down your Land without <hi>Clover,</hi> except it lie longer then it need to do; and for the firſt and ſe<g ref="char:EOLhyphen"/>cond year it yeelds you very little, and ma<g ref="char:EOLhyphen"/>ny grounds, if they be not layn down in good heart, yeeld almoſt nothing for the three firſt years, all which time <hi>Clover</hi> yeelds a very great advantage, and by that time
+<pb n="9" facs="tcp:65048:13"/>is almoſt ready for a ſecond breaking up, if you deſire it.</p>
+            <p n="4">4. Fourthly, but herein hath been a ve<g ref="char:EOLhyphen"/>ry great miſtake, and this Husbandry hath unjuſtly paſſed under this cenſure: It doth not impoveriſh, but improve the Land; for if you graze it altogether as ſome do, the ground maintains ſo many more Cattle then what it did before, that puts the que<g ref="char:EOLhyphen"/>ſtion out of doubt: if you mow it once a year, and graze the reſt; ſo many Cattle as it will require to keep it down, will ſuf<g ref="char:EOLhyphen"/>ficiently manure your Land: if you mow twice a year, it helps you to keep ſo many the more Cattle in the houſe, whoſe dung if it were laid upon the ſame Land would add more heart and vertue to it, they your two crops of <hi>Clover</hi> took from it. In my former Book I mentioned ſome other rea<g ref="char:EOLhyphen"/>ſons, and I am now more fully convinced, that the leaves, which will unavoydably fall from it, do very much inrich the Land; you may many times ſee the ground black over with them; and it is very obſervable, how the ground in the abſence of theſe leaves is covered over with ſome lower branches of the <hi>Clover,</hi> which ſpread them<g ref="char:EOLhyphen"/>ſelves, and rot upon the ground, whilſt
+<pb n="10" facs="tcp:65048:14"/>the top or upper branches flouriſh; and the <hi>Clover</hi> is much inriched by this conna<g ref="char:EOLhyphen"/>tural food, <hi>viz.</hi> a corruption of a ſuper<g ref="char:EOLhyphen"/>fluous part of the plant: for I perceive the Land doth receive wonderful advan<g ref="char:EOLhyphen"/>tage by theſe leaves and branches; and as the leaves and branches, ſo the root doth very much contribute towards the inrich<g ref="char:EOLhyphen"/>ing of the Land; and the truth is, ſince our Country by experience hath been convin<g ref="char:EOLhyphen"/>ced, that the Land by <hi>Clover</hi> is much bet<g ref="char:EOLhyphen"/>tered, they have for the moſt part aſcribed it to the long and large root which this plant leaves in the Land. But it is Experi<g ref="char:EOLhyphen"/>ence, that muſt reſolve us in this caſe, (and indeed ſo it hath) though there is reaſon e<g ref="char:EOLhyphen"/>nough againſt this objection; he that hath ſowed <hi>Clover,</hi> and had the profit of it three or four years, and then hath ſowed Corn, till be come to lay down his Land with <hi>Clover</hi> again, is moſt like to give the trueſt anſwer to this queſtion. I confeſs, I had a great deſire to be reſolved in this point, and to that end, I have made all the trials I could for this 5 years, and have obſerved others <hi>Clover</hi> Husbandry, and Co<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n after it, and have put ſome upon the tryal of it, by ſowing Corn juſt after it: and truly, though
+<pb n="11" facs="tcp:65048:14"/>at firſt I was of the objectors opinion, yet by my experience and obſervation I am convinced of the contrary; and I cannot upon inquiry finde any one judicious per<g ref="char:EOLhyphen"/>ſon (that hath for any competent time uſed this Husbandry) but he is fully ſatisfied, that <hi>Clover</hi> leaves the Land better then it found it. It were too long to tell you, what many men, with whom I have diſcourſed, have told me, who were once diſcouraged by this objection, but are now upon trial ful<g ref="char:EOLhyphen"/>ly ſatisfied. If you peruſe any writings a<g ref="char:EOLhyphen"/>bout <hi>Clover,</hi> you will finde, that in the firſt trials of it in <hi>England,</hi> thoſe Gentlemen that then wrote, found, that it did im<g ref="char:EOLhyphen"/>prove the Land. Mr. <hi>Walter Blith</hi> tells us that <hi>Clover</hi> hath this property, after 3 or 4 years it doth ſo frame the earth, that it is much the fitter for Corn, in his <hi>Impro<g ref="char:EOLhyphen"/>ver improved,</hi> pag. 104. Sir <hi>Richard Weſton</hi> ſaith, <hi>the Land being ploughed after</hi> Clover, <hi>it will yeeld</hi> 3 <hi>or</hi> 4 <hi>years together rich crops of Wheat, and after that a crop of Oats; with which you may lay it down again with</hi> Clo<g ref="char:EOLhyphen"/>ver. Theſe are his own words. I could give you many more anſwers and experiments that may fully ſatisfie any that yet doubt, but that I perceive there is no need with
+<pb n="12" facs="tcp:65048:15"/>us; and therefore I leave you to expe<g ref="char:EOLhyphen"/>rience, which hath convinced many, that otherwiſe would not be ſatis<g ref="char:EOLhyphen"/>fied.</p>
+            <p>And though I think no reaſonable man can object, yet if any ſhould imagine that it would abate our tillage of Corn, it were eaſie to make it out that it will much increaſe it: for a third part of that ground you are forced to lay down for graſs to maintain your Cattle, wherewith to Till your Land, will maintain them; ſo that you may Till much more of your Land, then before you could. I can make it appear, ſix Acres of Land in <hi>Clover</hi> will keep as ma<g ref="char:EOLhyphen"/>ny Cattle, as thirty Acres of natural graſs; and beſides, your Land need not now lie out of tillage, ſo long as it was wont to do; but once in four or five years you may break it up, and it ſhall be as ſit for tillage, as though it had lain 20 years with natural graſs. The caſe indeed is ſo plain, that I need not trouble you with an anſwer to this conceit.</p>
+         </div>
+         <div type="part">
+            <pb n="13" facs="tcp:65048:15"/>
+            <head>What are the fitteſt Lands to ſow <hi>Clover</hi> upon.</head>
+            <p>IN my former Book, you have an ac<g ref="char:EOLhyphen"/>count of the fitteſt Lands for this Hus<g ref="char:EOLhyphen"/>bandry; and as they are the Lands moſt fit, ſo it is Land that may be beſt ſpared, eſpecially at the time when it is to be Clo<g ref="char:EOLhyphen"/>vered, <hi>viz.</hi> when you are to lay it down for graſs, for the two firſt years it yeelds very little profit. I finde upon my obſervation in general, all garvelly dry Land is good for this purpoſe; eſpecially, if it be limed well before, and be Land that is not very poor, nor extreamly out of heart; but if it be in good heart, and be worth nine or ten ſhillings the Acre, the profit of it will be the greater and more certain. It is a con<g ref="char:EOLhyphen"/>ceit directly againſt reaſon and experience, that the barreneſt and pooreſt Lands are fitteſt for <hi>Clover:</hi> for though it will grow upon very poor Land that hath been limed, and will raiſe very great profit, yea, and poor Land without lime, with a little good Husbandry by <hi>Clover,</hi> will yeeld good
+<pb n="14" facs="tcp:65048:16"/>advantage; yet we muſt not think the poorer the Land is, the fitter it is for <hi>Glover:</hi> though <hi>Clover</hi> is the beſt improvement of barren Land, yet poor and barren Land is not beſt for <hi>Clover.</hi> But as for the parti<g ref="char:EOLhyphen"/>cular Lands that are fit for this Husbandry, I ſay,</p>
+            <p n="1">1. Firſt, it is beyond all doubt, that the beſt and fitteſt Land is that which hath been in tillage about ſix or eight years, that hath been well limed, and is dry and gravelly, and not apt to bear its natural graſs the firſt and ſecond year.</p>
+            <p n="2">2. A ſecond ſort is a broomy and fearny dry Land, that hath been well limed, and hath been in tillage ſix or eight years.</p>
+            <p n="3">3. A third ſort is mixt Land, that is na<g ref="char:EOLhyphen"/>turally dry, that hath been limed, and that lieth dry in the Winter.</p>
+            <p n="4">4. A fourth ſort is Rie-land, which is drie and ſandy, which alſo hath been limed.</p>
+            <p>I take theſe four ſorts of Land to be fitteſt for <hi>Clover;</hi> and though I mention them all as limed, yet in thoſe parts where no lime can be had at reaſonable rates, and they have any of theſe four
+<pb n="15" facs="tcp:65048:16"/>ſorts of Land, <hi>Clover</hi> will yeeld them a ve<g ref="char:EOLhyphen"/>ry great advantage: for theſe Lands are in their own nature very fit for <hi>Clover,</hi> and it groweth very well upon it, where there hath been no lime; yet, I adviſe you to uſe lime where it is to be had.</p>
+            <p>I have endeavoured to finde out the reaſon, why <hi>Clover</hi> doth ſo extreamly thrive upon limed Land, rather then upon the ſame Land when it hath not been limed; which experience doth fully convince us, is true, and for which many reaſons are aſſigned. That it is ſo, none de<g ref="char:EOLhyphen"/>ny: and why it is ſo, I have given you ſome account in my other book.</p>
+            <p>There are two other ſorts of Land that bear <hi>Clover.</hi>
+            </p>
+            <p n="1">1. Land that is of a mixt nature, and that hath ſomewhat more of clay in it, then the third ſort of Land before mentioned; whoſe clods are apt to fall in pieces, in a wet time, and is not ſubject to cling<g ref="char:EOLhyphen"/>ing.</p>
+            <p n="2">2. Secondly, Clay-land that is not ſub<g ref="char:EOLhyphen"/>ject to retain the wet, and that lieth upon a ſhut, ſo that the rain and other water runneth ſpeedily off it; which Land is much the better, if it face to the South.
+<pb n="16" facs="tcp:65048:17"/>We may be ſo much the more confident of ſucceſs upon theſe two ſorts of Land, if they have been well limed, and we have a drie ſeeding time: and you muſt be ſure to make this Land as fine, light and mellow, as you can; and when you have got <hi>Clover</hi> upon it, it will by its root and broad leaf make and keep your Land much more lighter and mellow or mouſtree; which will be a great advantage, when you come to ſow corn again.</p>
+            <p>I have obſerved upon this ſort of mixed and Clay-land excellent good <hi>Clover,</hi> and I know ſome that have a very great advan<g ref="char:EOLhyphen"/>tage upon it; yet I think the unſeaſona<g ref="char:EOLhyphen"/>bleneſs or extreamneſs of the weather hath a greater influence upon <hi>Clover</hi> to its detriment (in this Land) then they have in the other ſorts of Land, upon my own knowledge. I ſay, this Land will bear it, and that with very much advantage; yet I adviſe the unexperienced rather to make their firſt trial upon one of the four ſorts of Land before mentioned. I have heard of ſome, who falling upon this ſort of Land in their eſſays, and either though their un<g ref="char:EOLhyphen"/>skilfulneſs, or ſome other miſcarriage, it hath failed them; they have then made it
+<pb n="17" facs="tcp:65048:17"/>their buſineſs to cry out againſt Clovering of Land in the general, or at leaſt to per<g ref="char:EOLhyphen"/>ſwade men that that ſort of Land will not bear it.</p>
+            <p>I do believe that there are many ſecrets about the Nature of <hi>Clover</hi> yet to be diſ<g ref="char:EOLhyphen"/>covered, and about the fitteſt Lands for it; and I do not doubt but in a ſhort time we ſhall attain to much more kowledge about the management of Clay Lands, ſo as to raiſe good <hi>Clover</hi> upon them: I have heard from good Authors, that in ſome Clay Lands (where it is not extream binding Clay) they have much ſucceſs, and have made good progreſs in the diſ<g ref="char:EOLhyphen"/>covery. I could heartily wiſh ſome inge<g ref="char:EOLhyphen"/>nious perſon would ſo far befriend the publick, as to give more full directions about Clay Land, then I can upon my own knowledge; not having the opportunity of ſo many trials upon that Land, as upon other Lands firſt mentioned.</p>
+         </div>
+         <div type="part">
+            <pb n="18" facs="tcp:65048:18"/>
+            <head>The profit of <hi>Clover.</hi>
+            </head>
+            <p>AS for the profit that may, and uſually is made by <hi>Clover,</hi> I am at a great ſtand, whether I had not better wholly omit i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and ſay nothing of it: for if I tell you what I have read and heard from o<g ref="char:EOLhyphen"/>thers, I ſhall forfeit my credit with ſome, and what I affirme will be taken to be im<g ref="char:EOLhyphen"/>poſſible: if I tell you what I have ſeen, and the whole Country will ſubſcribe to the truth of, yet it will be taken to be very impoſſible with many, eſpecially thoſe which have not ſeen it: and if report the advantages to be leſs, it is a detraction; and though I ſhould then ſpeak the truth, yet it is not all the truth. I am reſolved to ſpeak within compaſs; and if I erre, it ſhall be on the ſafer hand, and herein I ſhall be the ſooner pardoned.</p>
+            <p>The firſt ſort of Land it is dry, gravelly, and limed; ſuppoſing it to be in heart, it yeilds to Graze or Mow, at leaſt Three pounds each Acre <hi>per annum.</hi>
+            </p>
+            <p>The ſecond ſort was broomy or fear<g ref="char:EOLhyphen"/>ny Land limed: this Land in <hi>Clover</hi> is (at
+<pb n="19" facs="tcp:65048:18"/>leaſt) worth Four mark each Acre <hi>per annum.</hi>
+            </p>
+            <p>The third and fourth ſorts of Land is mixt Land, naturally dry, and Rye Land; which Clovered, is (at leaſt) worth Forty ſhillings <hi>per</hi> Acre.</p>
+            <p>Many perſons have offered to give me a particular account of the money they have raiſed out of ſeveral pieces of <hi>Clever,</hi> which amounts to more then I have men<g ref="char:EOLhyphen"/>tioned: and I know the benefit in ſome parts will be very great, where Graſs is much wanting; eſpecially, in the midſt of Summer, when all other Graſs is burned up. So far as I can underſtand the nature of this Plant, it ſeems to be deſigned on purpoſe for thoſe Countries where natu<g ref="char:EOLhyphen"/>ral Graſs is wanting, and for a ſupply where the Sun hath burnt up their graſs in the midſt of Summer: for as the Land in thoſe parts is fitteſt for <hi>Clover;</hi> (bearing little natural graſs) ſo <hi>Clover</hi> is fitteſt for thoſe Lands; which indeed, is the beſt improvement can be made of them. There is a Gentleman<note n="*" place="margin">Sir <hi>John Win<g ref="char:EOLhyphen"/>ford</hi> late high Sheriff.</note> my neighbour, that hath a<g ref="char:EOLhyphen"/>bout ſixty Acres (and I know of ſeveral parcels) ſowed with
+<pb n="20" facs="tcp:65048:19"/>
+               <hi>Clover</hi>-ſeed, being very barren gravelly Land; which Land if laid down to bear natural Graſs, is not worth above four ſhillings ſix pence the Acre at moſt, here with us; and I know there hath been made of it at leaſt forty five ſhillings <hi>per annum,</hi> upon each Acre by <hi>Clover.</hi> As alſo, Mr. <hi>Thomas Hill</hi> a Grazier, can give you an ac<g ref="char:EOLhyphen"/>count of the profit of it, whom you may ſee in moſt of the Fairs in <hi>Worceſter-ſhire, Stafford-ſhire,</hi> or <hi>Shrop-ſhire.</hi> I ſowed a<g ref="char:EOLhyphen"/>bout ſixteen Acres with Barley, and after my Barley I had about <hi>Michaelmas</hi> a great After-math, into which I turned by way of Tack about forty Hoggs, at ſix pence <hi>per</hi> the week; and for that time I had about four pound ten ſhillings for Tack of Swine, which I thought was pretty well for an After-math; and take my Land to be much bettered by the dung of ſo many Piggs. Had I let this Land lie to bear na<g ref="char:EOLhyphen"/>tural Graſs, it would not have brought me five pounds in the two firſt years; and as to bear Corn, it would not any longer to any advantage, being worn out with liming and long tillage. This I mentioned in my Book laſt year, to which I could adde this years experience: but to give you the
+<pb n="21" facs="tcp:65048:19"/>particulars of it were too long: in a word, it was anſwerable to my expectations, and ſuch as you will ſcarce believe, except you ſaw it, or had had ſome experience of this Husbandry your ſelf. If the After-math in the firſt quarter after the Barley is cut yeild ſuch advantage, you may gueſs what the next years profit may be. I would not have ſpent ſo many words about the ad<g ref="char:EOLhyphen"/>vantage of <hi>Clover,</hi> but that it's more then poſſible my Book may fall into the hands of ſome that either have not ſeen it grow<g ref="char:EOLhyphen"/>ing, or have not had that opportunity of knowing the profit of it, as all men have here about us, if they will take any notice of their neighbours Lands.</p>
+         </div>
+         <div type="part">
+            <head>When, how much, and how to ſow <hi>Clever.</hi>
+            </head>
+            <p>FOr the time of ſowing it, in my for<g ref="char:EOLhyphen"/>mer Book I told you that the beſt ſea<g ref="char:EOLhyphen"/>ſon is from the 10th. of <hi>March,</hi> to the lat<g ref="char:EOLhyphen"/>ter end of <hi>April;</hi> but I hold it beſt in <hi>March,</hi> becauſe the ſeed may have time to root before the drought catch it. Since
+<pb n="22" facs="tcp:65048:20"/>I wrote my laſt Book I have made ſeveral trials, I have ſowed ſome in every week in <hi>Auguſt</hi> and <hi>September,</hi> and I do intend to trie a good quantity, to ſow it in the middle or rather in the beginning of <hi>Au<g ref="char:EOLhyphen"/>guſt,</hi> for I perceive that doth exceeding well which is then ſowed: and I begin to think that after a little time, the Country will be much inclined to that ſeaſon as the beſt. If any perſon pleaſe to make trial, I adviſe him to order his ground according to this direction, and I dare almoſt war<g ref="char:EOLhyphen"/>rant it ſhall thrive. So ſoon as your Bar<g ref="char:EOLhyphen"/>ley or your Peaſe is taken off your Land, plough it with a narrow round furrow, that ſo all the pelfe and weeds may be bu<g ref="char:EOLhyphen"/>ried; then harrow your Land, and lay it as plain and as fine as may be, and pick off the ſtones; then ſow the ſeed (with<g ref="char:EOLhyphen"/>out any corn in it or before it) according to the following directions. Keep your Land well incloſed, that it may not be trod upon by any cattel till about the middle of <hi>April;</hi> then Graze it if you will, or keep it a little longer and Mow it. I ſowed laſt year about eight Acres without any Grain, or any thing elſe upon the ground with it, and it thrives very well; but it
+<pb n="23" facs="tcp:65048:20"/>was ſowed in <hi>April,</hi> and I conceive if it had been ſowed in <hi>Auguſt</hi> it had been much better; and amongſt others, one reaſon why I conceive ſowing in <hi>Auguſt</hi> is beſt, is, becauſe I find one great enemy to <hi>Clo<g ref="char:EOLhyphen"/>ver</hi> is natural Graſs: Now if the ſeed be ſowed in <hi>Auguſt,</hi> it will have taken root and be able to bear out the winter; and when the ſpring cometh it will be ſo high and forwardly, that it will be able to co<g ref="char:EOLhyphen"/>ver all the ground, and ſhade and keep down that graſs which elſe would be in<g ref="char:EOLhyphen"/>jurious to it.</p>
+            <p>For the quantity of ſeed I need ſay but little, for all men are now convinced of the error in ſowing ſix or eight pound upon an Acre; and I cannot hear of any that ſow leſs then twelve pound, ſome ſow fourteen pound, and ſome ſixteen pound: I have my ſelf ſowed ſixteen pound upon an Acre: but for your directions herein, I ſhall onely give you the very words of my laſt Book. The quantity of ſeed that I do preſcribe to ſow one Acre, is twelve or thirteen pound: it's true, formerly they did not ſow above ſix pound of ſeed upon an Acre, but I finde by practice, that no leſs then twelve pound muſt be ſowed:
+<pb n="24" facs="tcp:65048:21"/>for when but ſix pound was uſed to be ſowed, then the natural graſs did preſent<g ref="char:EOLhyphen"/>ly abound, and the branches did grow into great ſtalks, whereby the <hi>Clover</hi> graſs did ſoon decay, and the graſs was courſe; but now by ſowing twelve pound upon an Acre, you do prevent the natural graſs, which is a great enemy to the <hi>Clover;</hi> as al<g ref="char:EOLhyphen"/>ſo, ſowing thick doth make the graſs the finer, and by conſequence ſweeter, and it doth alſo by its thickneſs and ſhade, kill all Broom and Fearn, and other weeds; which a good husbandman knows are great ad<g ref="char:EOLhyphen"/>vantages to the Land, in order to the next breaking up for Corn: therefore, I de<g ref="char:EOLhyphen"/>ſire that all would ſow twelve pound on each Acre.</p>
+            <p>As for the manner of ſowing it, I do not by any means approve of the mixing it with Sand, or any thing elſe; I ſhall not trouble you with reaſons againſt it, becauſe it is now wholly laid aſide: the Country is ſenſible of the great hazard and incon<g ref="char:EOLhyphen"/>venience of it: my direction therefore is, if you ſow in <hi>Auguſt,</hi> let your ground be ploughed as aforeſaid, and made as e<g ref="char:EOLhyphen"/>ven, fine and plain, as one plowing and har<g ref="char:EOLhyphen"/>rowing will well make it; then ſow your
+<pb n="25" facs="tcp:65048:21"/>Seed thus: put about ſo much as will ſow one Land into a bowl, or ſome ſuch thing, holding it in your left hand, or un<g ref="char:EOLhyphen"/>der your left arm; and with your right hand ſow it as you do Corn, taking it be<g ref="char:EOLhyphen"/>tween your two forefingers and thumb; and according to your beſt skill divide your Seed, ſo as that every place may have its ſhare: wherein you muſt obſerve that the wind be not too high, and ſo to or<g ref="char:EOLhyphen"/>der your Seed, that the wind do not drive it together in heaps. If you ſow it after Barley, prepare your Land, and make it ſowed and well harrowed, ſow your <hi>Clover</hi> Seed either the ſame day, or two or three days after; then line your Harrows with a Buſh, ſo that they may not go above two inches in the ground; and if good part of the Buſh hangs behind the Harrows, it will be much the better. I have ſometimes ſowed when the Barley hath been two inches above the ground, and onely rolled the Barley, and herein I have had good ſucceſs; but I approve not this way, except in caſe of neceſſity: for if drie weather come immediately upon it, it will not be ſufficiently covered. I finde
+<pb n="26" facs="tcp:65048:22"/>by experience, that it is much better to ſow <hi>Clover</hi> with Barley, when you lay down your Land, rather then with Oats; and if I miſtake not, the <hi>Clover</hi> will be much the better: it will not be labour loſt, if you take notice of the birds, leſt they devour the Seed ſo ſoon as it is ſowed.</p>
+         </div>
+         <div type="part">
+            <head>Directions for mowing, making and u<g ref="char:EOLhyphen"/>ſing the Hay.</head>
+            <p>THe beſt time to mow <hi>Clover</hi>-graſs, is about the beginning of <hi>June,</hi> for the firſt cutting of it; and in <hi>Auguſt</hi> for the ſe<g ref="char:EOLhyphen"/>cond cutting. In making<g ref="char:punc">▪</g> your Hay, do not ſhake your ſwathes as you do other Hay, onely turn it with as much tenderneſs as may be until it is fit to cock, for the leaves of it are too apt to fall, which muſt be prevented; for ſuch is the vertue of them, your labour will not be loſt: and if it ſhould happen to be an extream wet time, ſo that you cannot make your <hi>Clover</hi> Hay as it ſhould; if you mix it in the Rick with a little Barley or Oaten-ſtraw, it will
+<pb n="27" facs="tcp:65048:22"/>tend much to the preſervation of your Hay, and in the winter will be excellent fodder: If it ſo happen that you have a piece of ground that you can float with water in ſummer, about two or three days after you have taken off your <hi>Clover</hi>-Hay, let your water run quick over your Land, and you will have ſpeedily a wonderful burthen of <hi>Clover</hi>-Graſs upon the ground. A little rain upon our <hi>Clover</hi>-Hay while it is withering, doth it no hurt, but maketh it more tough; but too much drought and heat when we out our <hi>Clover</hi> maketh our Hay too brittle, ſhort, and apt to crumble; and I finde alſo the roots are much damnified by cutting <hi>Clover</hi> in a hot time. Some think it is better rick <hi>Clo<g ref="char:EOLhyphen"/>ver</hi>-Hay then houſe it; but that I leave to your convenience.</p>
+         </div>
+         <div type="part">
+            <head>What Cattle are fitteſt to graze it with.</head>
+            <p>
+               <hi>CLover</hi>-Graſs is food for all ſorts of Cattle, but you muſt have a ſpecial care when you firſt put Oxen or Kine into
+<pb n="28" facs="tcp:65048:23"/>it: I have heard of ſome Oxen and Kine that have been put in well, and have been dead in four or five hours: but a little care doth prevent the danger. When you put them in, for the firſt day let them be in a<g ref="char:EOLhyphen"/>bout a quarter of an hour, the ſecond day half an hour, the third day an hour, the fourth day an hour and a half, the fifth day about two houres, and the ſixth day three hours, and the ſeventh day you may let them ſtay in without danger: you muſt alſo have a care that your Kine or Oxen drink not of two hours after they come out of the <hi>Clover:</hi> for this Graſs is ſo ſweet a feeding for them, that drinking immediately after it, they are in danger of ſwelling. It is excellent feeding for Oxen and Kine; and it is obſerved, that Kine do give more and better Milk in <hi>Clover</hi>-Graſs then they do in any other; and the Butter and Cheeſe is much better then that which is raiſed upon ordinary Graſs.</p>
+            <p>Horſes you may put into it at any time without any danger, and it doth feed, and cure them of many diſeaſes. Sheep may be put in without danger, and indeed it is a very expeditious way of fatting Sheep. <hi>Clover</hi>-Graſs will be ready for
+<pb n="29" facs="tcp:65048:23"/>them in the beginning of <hi>March,</hi> and you will finde them fat in ten weeks: ſome men have made good profit by this way of feeding them.</p>
+            <p>Swine you may put in at any time with<g ref="char:EOLhyphen"/>out danger, who feed and grow wonder<g ref="char:EOLhyphen"/>fully in it. To thoſe perſons who want meat for their Swine, this food will be ve<g ref="char:EOLhyphen"/>ry acceptable: and as it is a certain, cheap and ſpeedy way of feeding Swine; ſo it is obſerved, that Swine do very much im<g ref="char:EOLhyphen"/>prove the Land, their dung being an ex<g ref="char:EOLhyphen"/>cellent manure. As for the Hay of <hi>Clover</hi> in the winter, we ſee that our Cattle will forſake our meadow-Hay for it, and it is with us accounted as good for a horſe as ordinary Hay and Provender. I do not approve of grazing <hi>Clover</hi> in the winter, for I know it doth it much hurt; and cutting it in a very dry time is injurious to it.</p>
+            <p>To conclude this point of feeding. Reader, let me tell thee, if thou haſt a good parcel of Land that is fit for <hi>Clover,</hi> and haſt money to ſtock it as it ought to be, a better opportunity of increaſing thy eſtate thy heart cannot deſire. I know ma<g ref="char:EOLhyphen"/>ny men that have made great advantage by
+<pb n="30" facs="tcp:65048:24"/>
+               <hi>Clover,</hi> yet have not made that profit by it, which they might have done, for want of a ſufficient ſtock to put upon it; and ſome men that upon very good Farms could not keep ſo many Cattle as their tillage did require (not having meadow-grounds) that can now keep with <hi>Clover</hi> many more, though they have much more of their ground in tillage, then they had be<g ref="char:EOLhyphen"/>fore.</p>
+            <p>I might tell you how it feeds Geeſe and Turkeys; but if any of it grow neer your houſes, you will ſoon be ſenſible of it: and I am ſure it will ſave much of that Corn, which is given to that ſort of Poultry.</p>
+         </div>
+         <div type="part">
+            <head>The Authors readineſs to give any man further ſatisfaction.</head>
+            <p>IN my laſt, I told you that if any Gentle<g ref="char:EOLhyphen"/>man or other perſon deſire to be fur<g ref="char:EOLhyphen"/>ther ſatisfied in any thing relating to this Husbandry, I ſhould be ready to contri<g ref="char:EOLhyphen"/>bute my beſt aſſiſtance in order thereunto; if they pleaſe to come to my houſe at
+<pb n="31" facs="tcp:65048:24"/>
+               <hi>Aſhley,</hi> in the Country of <hi>Worceſter,</hi> there I ſhall be ready to ſhew them what experi<g ref="char:EOLhyphen"/>ments I have made, and to give them ſuch viſible arguments of the truth of what I have printed, that may convince the moſt incredulous. This my offer I ſhall God willing make good: and in my abſence, Mr. <hi>Robert Vicaris</hi> my next Neighbour will be ready to perform what I have here promiſed.</p>
+            <p>I would have given you an account in this book of many more experiments and obſervations, but that it would too much enlarge this ſecond Edition; and in that I deſigned this alſo, chiefly for <hi>Worceſter</hi>-ſhire, <hi>Stafford</hi>-ſhire, <hi>Shrop</hi>-ſhire, and ſome parts of <hi>Hereford</hi>-ſhire; ſuch quotations are the leſs neceſſary: for great part of the Lands in theſe Counties are ſo fit for this Husbandry, that the management of it is the leſs difficult; and men generally begin to be expert in it: yet ſuch hath been the importunity of ſome, for my firſt Book (of which I have none left) that forceth me with this enlargement to reprint it, before I have performed what in it I promiſed, <hi>viz.</hi> A ſecond part of the diſcourſe of <hi>Clo<g ref="char:EOLhyphen"/>ver,</hi> and of other Lands that are fit for it;
+<pb n="32" facs="tcp:65048:25"/>the delay of which I hope will be recom<g ref="char:EOLhyphen"/>penced by thoſe trials that are now on foot upon ſuch Lands: for if there were none of thoſe four ſorts of Land before mentioned in <hi>England,</hi> I ſhould yet make no doubt of raiſing a very great profit by <hi>Clover</hi> upon many ſorts of Clay, or clayiſh Land; and this I hope in a ſhort time to make appear, though this Land requires ſomewhat more of art and patience, and may in our firſt eſſayes give us more diſ<g ref="char:EOLhyphen"/>couragements then thoſe Lands that are every way fitted for this husbandry. But my preſent buſineſs is to give my Country<g ref="char:EOLhyphen"/>men a remedy for his Gravelly, Dry, Sandy, or Rie Land which is worn out with tillage and liming: I know it is a common diſeaſe in theſe parts where lime is cheap, and the common cure is as bad as the diſeaſe it ſelf. But <hi>Clover</hi> you will finde to be a certain, ſpeedy, profitable cure for ſuch Lands, for it yeelds you a great advan<g ref="char:EOLhyphen"/>tage in the interim, that is, for three or four years, and in the fifth year after is as fit for Corn as though it had lain in Graſs twen<g ref="char:EOLhyphen"/>ty years. And as <hi>Clover</hi> is fitteſt for Land that is thus become uſeleſs, and almoſt un<g ref="char:EOLhyphen"/>capable of any other Husbandry with pro<g ref="char:EOLhyphen"/>fit,
+<pb n="33" facs="tcp:65048:25"/>ſo this Land is fitteſt for <hi>Clover;</hi> and that which renders it unprofitable to us, <hi>viz.</hi> that it is unapt to natural Graſs the two firſt years, doth render it moſt profi<g ref="char:EOLhyphen"/>table to us in <hi>Clover.</hi> And as lime by its ſpeedy working downward, doth ſoon get through the uppermoſt part of the earth (which longer retaineth our other ſoyle) ſo the <hi>Clover</hi> doth ſhut its root ſtraight downward and deep in the earth, where<g ref="char:EOLhyphen"/>by it partaketh of that vertue, which o<g ref="char:EOLhyphen"/>therwiſe would be loſt, being got without the reach of other roots: and this may be one reaſon, why Land that hath been limed beareth much more <hi>Clover,</hi> then the ſame Land, when it hath not had lime upon it: beſides, the lime doth much mellow and open our Land, whereby the <hi>Clover</hi> hath the better advantage of taking root.</p>
+            <p>I intended here to add a few Letters a<g ref="char:EOLhyphen"/>bout this Husbandry; but becauſe they are long, I print only this enſu<g ref="char:EOLhyphen"/>ring from an ingenious Gentleman.</p>
+            <pb n="34" facs="tcp:65048:26"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR</salute>
+                  </opener>
+                  <p rend="margQuotes">SInce we have had ſuch convincing ex<g ref="char:EOLhyphen"/>perience, and have taſted the profit of <hi>Clover</hi>-Graſs; we now wonder, that ſo great an improvement was no ſooner diſcovered, and juſtly impute it to our many miſcarriages in our firſt manage<g ref="char:EOLhyphen"/>ment of it. It was no ſmall incourage<g ref="char:EOLhyphen"/>ment to us, when we heard and ſaw you had better ſucceſs then we at firſt had; eſpecially when we ſaw you ſo ready to communicate your experience for the publick good: to comply therefore with your deſires and my own inclination to promote improvements, I have ſent you ſome remarques of mine about this Husbandry of <hi>Clover</hi>-Graſs, amongſt ma<g ref="char:EOLhyphen"/>ny more, (and perhaps more conſidera<g ref="char:EOLhyphen"/>ble) which might be added.</p>
+                  <p rend="margQuotes">I have obſerved the outlandiſh Seed to bring ſomewhat the broader leaf, and of a deeper green; but I know not whe<g ref="char:EOLhyphen"/>ther it be conſtantly ſo, nor whether it be better, if it be.</p>
+                  <p rend="margQuotes">I can aſſure you from experience, that to ſteep the Seed (which to other grain is thought helpful) is hurtful; for
+<pb n="35" facs="tcp:65048:26"/>much of the Seed will ſwell and break, and that in ſhort time. Drie grounds and light are conceived moſt proper for this Seed; for they are ſoon and eaſily made mellow, otherwiſe the <hi>Clover</hi> would not take root to any purpoſe: but it's paſt doubt with me, that if ſtrong Land and marley ground could be made fine enough (as they uſe to ſpeak) that is, ſmall, it would bring the beſt and moſt durable <hi>Clover;</hi> for we ſee it naturally growing on ſuch Land: and for the preparing ſuch Land for this end, I ſhall adventure to offer ſome<g ref="char:EOLhyphen"/>thing before I conclude. Trial would alſo be made in boggie grounds, for ſuch Land once drained is exceeding light; ſo that if exceſs of moiſture rot not the <hi>Clover,</hi> it muſt needs grow very ſwiftly: beſides, this ſucculent and ſwift growing Graſs may poſſibly prove a ſecret kind of draining to the Land: and I do the rather incourage to this trial, becauſe I have this year in a kind of curioſity ſowed Turnips on ſuch Land with good increaſe, and (which may be thought ſtrange) not any of them
+<pb n="36" facs="tcp:65048:27"/>rotted, though there was no drain to the ground.</p>
+                  <p rend="margQuotes">The uſual time of ſowing is with Bar<g ref="char:EOLhyphen"/>ley or Oats; which if late ſowed, in<g ref="char:EOLhyphen"/>dangers the Seed by drought: I there<g ref="char:EOLhyphen"/>fore for trial ſowed ſeveral A<g ref="char:EOLhyphen"/>cres early with peaſe, which grows well.</p>
+                  <p rend="margQuotes">The uſual way of covering it when ſown, is with a buſh of thorns, which yet will bury ſome, and leave more a<g ref="char:EOLhyphen"/>bove ground to the birds: to prevent both inconveniences, I having firſt ſowed the Seed, cauſed lime newly ſlack<g ref="char:EOLhyphen"/>ed to be thinly ſowed upon it, and the <hi>Clover</hi> grows well; and probably the lime is a further advantage then the firſt preſervation.</p>
+                  <p rend="margQuotes">To fill the ground full of Seed is now agreed the beſt way, though perhaps the bottome of the reaſon is ſcarce yet thought on: that the keeping the earth moiſt by its ſhade doth much good is certain, and that the keeping out other Graſs doth more good, is as certain; but how it keeps out other Graſs is the queſtion, to which I cannot think it a ſufficient anſwer, to ſay it doth it by
+<pb n="37" facs="tcp:65048:27"/>covering the ſurface of the earth, but believe the cauſe is a little more remote from common view, <hi>viz.</hi> that the greater number of Roots there are ſhot down into the earth, the more do they both diſpoſe the earth by a ſubtle kind of ferment or motion for their pro<g ref="char:EOLhyphen"/>per nouriſhment, and alſo the more ſtrongly draw away that nouriſhment when prepared, whereby other Graſs is prevented. We ſee things of long and ſpreading roots do much mellow Land below the ſurface, eſpecially, if they be many together; for a few may be over<g ref="char:EOLhyphen"/>maſtered by the hardneſs of the parts of the earth. Coppice-woods thrive well, and the thicker the more thriving, in ſuch grounds where ſingle buſhes would not thrive at all; which alſo takes away the objection of ſuch as may ſuppoſe the ground will ſcarce nouriſh ſo many. Perhaps you may judge theſe kind of reaſons too fanciful; but I purpoſe to indulge my own conceipt ſo far, as to ſow twenty pound weight upon an Acre, this next year.</p>
+                  <p rend="margQuotes">Sowing it in rowes, and hoing it once or twice in a ſummer, would make it proſper
+<pb n="38" facs="tcp:65048:28"/>incredibly; but that the ordinary Husbandman will never undergo the trouble of, till ſome more expedi<g ref="char:EOLhyphen"/>tious inſtrument then the common Hoe, is found out, which to an ingenious man would be a work of no great diffi<g ref="char:EOLhyphen"/>culty.</p>
+                  <p rend="margQuotes">The Spring is the common ſeaſon of ſowing, which becauſe it ordinarily ſuc<g ref="char:EOLhyphen"/>ceeds, muſt not be found fault with: but though that be a good time, I do not think it's the beſt; for the Autumn (be<g ref="char:EOLhyphen"/>ſides that it is ſeldome or never accom<g ref="char:EOLhyphen"/>panied with drought) gives the greateſt advantage of mellowing the Land, by ploughing it immediately after the grain is off: eſpecially, if ſuch preceding crop were Gray-peaſe, Buck-wheat, ſome broad-leafed Plant; for ſuch do generally moſt conduce to mellow and meliorate Land: And this is the way I would offer for bringing ſtiff Lands in order for <hi>Clover:</hi> And I wiſh; ſome in<g ref="char:EOLhyphen"/>genious man would ſow ſome (if but a little for trial ſake) with his winter Corn, for I dare aſſure him, if no extream froſt do ſuddenly catch it, he ſhall finde it the beſt time. And here I think it proper
+<pb n="39" facs="tcp:65048:28"/>to propoſe the ſowing of ſuch Lands with <hi>Clover,</hi> as lie in common Fields; and ſuch a great part of our Lands in <hi>England</hi> are, by reaſon whereof Hay and paſture-grounds are wanting in many places; and for remedy, they are fain to ſow a great part of their Land with horſe-meat, and that at a great charge; which the Team devouring next Winter, and the Family moſt or all the bread-Corn, the poor Farmer can hardly pay his rent, and is always kept neceſſitous. I think truly that for ſuch Lands <hi>Clover</hi> is the greateſt, if not only improvement: for by ſowing <hi>Clover</hi> either with or without his winter Corn, the year after the fallow, he ſhall that year not onely have excellent fodder far beyond what ordinarily comes with Barley or Oates; but alſo the <hi>Clover</hi> will have gotten ſo good rooting, that the next winters grazing ſhall not deſtroy ſo much, as it doth uſally that which is ſown in ſpring; ſo that without further charge, he ſhall have a ſecond years profit to be imploy<g ref="char:EOLhyphen"/>ed either for Hay or grazing, as his oc<g ref="char:EOLhyphen"/>caſions beſt ſerve. It's eaſie here to foreſee the objection againſt this courſe,
+<pb n="40" facs="tcp:65048:29"/>
+                     <hi>viz.</hi> that ſo ſoon as the Corn is out of the field, the <hi>Clover</hi> is expoſed to all the neighbourhood; and it's as eaſily an<g ref="char:EOLhyphen"/>ſwered, that though that be true, yet 1. You have the Summers profit, 2. Your Land by ſuch grazing ſhall be hugely im<g ref="char:EOLhyphen"/>proved, even to recompence you ſuffici<g ref="char:EOLhyphen"/>ently for loſs of your <hi>Clover,</hi> ſo that a<g ref="char:EOLhyphen"/>gainſt your next tillage after the next fal<g ref="char:EOLhyphen"/>low you ſhall need little or no Soyl.</p>
+                  <p rend="margQuotes">Having thus conſidered the beſt ways and <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ime for ſowing <hi>Clover,</hi> it will be now fit to look to the uſe of it: Cut<g ref="char:EOLhyphen"/>ting and giving in racks green is a known good way, and raiſeth much ſoyle; to make it well into Hay, requires a long and dry ſeaſon, yet not vehement hot, for that ſcorcheth the leaves, cauſing them to fall off, as much rain waſheth out much of its ſweetneſs; but by a gentle rain (or rather dew) they are preſerved for the ſame reaſon, alſo it ſhould not be unneceſſarily toſſed. A knowing Husbandman told me it was the beſt way to rake it into large rowes rather then make it into Cocks, and ſo let it lye in a ſort open, and in the middle of the day open it a little more,
+<pb n="41" facs="tcp:65048:29"/>and after all is done, it will be better put it into a Rick then into a Barn, and into an open then a cloſe Barn. Note alſo, that the ſooner it's ſpent the better, and not keep it as ſometimes other Hay is kept till two years old; for the ſtalks of it being hollow and ſpungy, it cannot lie ſo cloſe and other Hay, (nor is it convenient it ſhould, except it be very well made) whereby the finer parts do exhale and fly away.</p>
+                  <p rend="margQuotes">To the continuance of <hi>Clover,</hi> grazing is an enemy; but eſpecially, in the hot<g ref="char:EOLhyphen"/>teſt and coldeſt ſeaſons, and moſt of all the firſt year: doubtleſs in other pa<g ref="char:EOLhyphen"/>ſtures grazing killeth much, but the ground naturally ſends forth more, ſo that we ſee not the defect: we ſee un<g ref="char:EOLhyphen"/>ſeaſonable and immoderate cutting or biting (for as to the effect it's all one) of the ſtrongeſt plants deſtroys them, not onely ſuch as are young and tender (though theſe ſooneſt) but even ſuch as are in their greateſt vigor: if any man then would preſerve his <hi>Clover</hi> wholly from biting, (and as much from tread<g ref="char:EOLhyphen"/>ing as he could) I am confident he ſhould finde it indure much beyond his
+<pb n="42" facs="tcp:65048:30"/>expectation. And here let me acquaint you, that I once heard of a way to perpe<g ref="char:EOLhyphen"/>tuate <hi>Clover,</hi> which though it be not ve<g ref="char:EOLhyphen"/>ry likely for that purpoſe, yet being otherwaies uſeful, I here give it you. The <hi>Clover;</hi> declining, let one Crop grow to a good ripeneſs; which being cut and made into Hay, let it be ſet up in a Rick in the ſame ground: the following winter Fother Cattel with it all the ground over, and the Seed com<g ref="char:EOLhyphen"/>ing thence (as the Relator ſuppoſed) will new ſtock the ground as at firſt. Now this I ſay, that though from hence no ſuch increaſe is to be expected, as from the firſt orderly ſowing upon mel<g ref="char:EOLhyphen"/>low Land, yet the Seed ſo ſcattered up<g ref="char:EOLhyphen"/>on the Land will grow, though it will be ſmall, and ſo make the paſture thicker and better then otherwiſe it would have been: for I once ſcattered ſome ſeed upon the green turfe, and it grew, but was ſmall: beſides, the Fothering will much inrich the Land.</p>
+                  <p rend="margQuotes">As for the common objection, that it impoveriſheth the Land, I ſay, firſt, the objection lies far ſtronger againſt til<g ref="char:EOLhyphen"/>lage, which is a far greater and more of<g ref="char:EOLhyphen"/>ten
+<pb n="43" facs="tcp:65048:30"/>repeated charge. But next, I take the truth of the matter to lie here, that ſuch as <hi>Clover</hi> very poor Land (as is moſt in cuſtome) do finde their Land to come but poorly with graſs, after the <hi>Clover</hi> ſpent; and I know not why in reaſon they ſhould expect it otherwiſe; for ſo it would have been, or worſe, if the <hi>Clover</hi> had not been there. If now they will either reſtore it its own again, that is, lay on the ſoyl that hath been raiſed from the <hi>Clover,</hi> or break it up for til<g ref="char:EOLhyphen"/>lage, they ſhall finde no cauſe to com<g ref="char:EOLhyphen"/>plain that their Land is impove<g ref="char:EOLhyphen"/>riſhed.</p>
+                  <p rend="margQuotes">Thus Sir, have I given you ſuch obſer<g ref="char:EOLhyphen"/>vations about this matter, as I thought might tend to advance the Husbandry; which I wiſh, as that which will be of publick advantage.</p>
+                  <closer>
+                     <dateline>
+                        <date>
+                           <hi>December</hi> the 3d. 1662.</date>
+                     </dateline>
+                     <signed>Yours <hi>J. B.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+         <div type="part">
+            <pb n="44" facs="tcp:65048:31"/>
+            <head>Where the Seed that is good and new may be had.</head>
+            <p>ANd whereas I found the Country in theſe parts frequently diſappointed in their expectations, through the badneſs of the Seed; I did for the laſt year provide a conſiderable quantity, of ſuch Seed as I knew to be right good, and new; of which parcel I cannot hear of one pound that failed of coming up, though the laſt year we had not ſuch ſeaſonable weather for it, as ſometimes we have had, and may hereafter expect: and in regard of ſome other imployment which I have undertaken, effectual care is taken by other perſons for the future, to furniſh theſe Cities, Towns, and places hereafter mentioned, with ſuch Seed as is warranted to be good: and if the Husbandman follow the directions I have given, he hath not the leaſt cauſe to doubt of ſucceſs (by Gods bleſſing upon his indeavours) but may aſſure himſelf of
+<pb n="45" facs="tcp:65048:31"/>that or more advantage then here I have propounded.</p>
+            <p>As for the price of the Seed, the laſt year it was ſold for ſeven pence the pound, but I hope this year it will be ſold cheaper. I have no inſtructions to ſet any certain price upon it, becauſe the perſons that un<g ref="char:EOLhyphen"/>dertake it, are reſolved to ſell it at the loweſt price that may be, and to that end have taken order for a great quantity, by which means they themſelves having it at a cheaper rate, will be able to ſell it ſo much the cheaper in the Country. As for the perſons who are by theſe undertakers appointed to ſell this Seed, publick notice will be given by Printed papers, who they are in each of the places following, and in ſome other places herein not mentio<g ref="char:EOLhyphen"/>ned.</p>
+            <pb n="46" facs="tcp:65048:32"/>
+            <list>
+               <item>At
+<list>
+                     <item>
+                        <hi>Worceſter,</hi> Mr. <hi>Nicholas Baker</hi>
+                     </item>
+                     <item>
+                        <hi>Aſhley,</hi> Mr. <hi>Robert Viccaris</hi>
+                     </item>
+                     <item>
+                        <hi>Beaudley</hi>
+                     </item>
+                     <item>
+                        <hi>Kederminſter</hi>
+                     </item>
+                     <item>
+                        <hi>Bromſgrove</hi>
+                     </item>
+                     <item>
+                        <hi>Stourbridge</hi>
+                     </item>
+                     <item>
+                        <hi>Kinvar</hi>
+                     </item>
+                     <item>
+                        <hi>Omberſley</hi>
+                     </item>
+                     <item>
+                        <hi>Dudley</hi>
+                     </item>
+                     <item>
+                        <hi>Teauxbury</hi>
+                     </item>
+                     <item>
+                        <hi>Tamworth</hi>
+                     </item>
+                     <item>
+                        <hi>Liechfield</hi>
+                     </item>
+                     <item>
+                        <hi>Newport</hi>
+                     </item>
+                     <item>
+                        <hi>Shrewsbury</hi>
+                     </item>
+                     <item>
+                        <hi>Bridgenorth</hi>
+                     </item>
+                     <item>
+                        <hi>Ludlow</hi>
+                     </item>
+                     <item>
+                        <hi>Tenbury</hi>
+                     </item>
+                     <item>
+                        <hi>Roſſe</hi>
+                     </item>
+                     <item>
+                        <hi>Dean</hi>
+                     </item>
+                     <item>
+                        <hi>Newent</hi>
+                     </item>
+                     <item>
+                        <hi>Sutton-cofield</hi>
+                     </item>
+                     <item>
+                        <hi>Warſall</hi>
+                     </item>
+                     <item>
+                        <hi>Woolverhampton</hi>
+                     </item>
+                     <item>
+                        <hi>Brimingham</hi>
+                     </item>
+                     <item>
+                        <hi>Hailes-owen</hi>
+                     </item>
+                     <item>
+                        <hi>Shifnall</hi>
+                     </item>
+                     <item>
+                        <hi>Wellington</hi>
+                     </item>
+                     <item>
+                        <hi>Wenlock</hi>
+                     </item>
+                     <item>
+                        <hi>Clibbery</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:65048:32"/>
+         </div>
+      </body>
+   </text>
+</TEI>
